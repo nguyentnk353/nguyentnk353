@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nguyentnk353@gmail.com**
 
-- 📄 Know about my experiences [https://nguyen-tran-portfolio.vercel.app/assets/CV_Tran%20Nguyen_Khoi_Nguyen-3bbd2a52.pdf](https://nguyen-tran-portfolio.vercel.app/assets/CV_Tran%20Nguyen_Khoi_Nguyen-3bbd2a52.pdf)
+- 📄 Know about my experiences [https://nguyen-tran-portfolio.vercel.app/assets/CV_Tran_Nguyen_Khoi_Nguyen-ec85f0ff.pdf](https://nguyen-tran-portfolio.vercel.app/assets/CV_Tran_Nguyen_Khoi_Nguyen-ec85f0ff.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
