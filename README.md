@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nguyen-tran-portfolio.vercel.app/](https://nguyen-tran-portfolio.vercel.app/)
 
-- 📫 How to reach me **nguyentnk353@gmail.com**
+- 📫 How to reach me **nguyenkdev@gmail.com**
 
 - 📄 Know about my experiences [https://nguyen-tran-portfolio.vercel.app/assets/CV_Tran_Nguyen_Khoi_Nguyen-ec85f0ff.pdf](https://nguyen-tran-portfolio.vercel.app/assets/CV_Tran_Nguyen_Khoi_Nguyen-ec85f0ff.pdf)
 
